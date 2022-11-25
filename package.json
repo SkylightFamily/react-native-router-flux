@@ -59,11 +59,11 @@
     "jest": "^25.1.0",
     "prettier-eslint": "8.8.2",
     "prettier-eslint-cli": "5.0.0-beta.0",
-    "react": "^18.2.0",
-    "react-native": "^0.70.6",
-    "react-native-gesture-handler": "^2.8.0",
-    "react-native-jest-mocks": "^1.5.0",
-    "react-test-renderer": "^18.2.0"
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-jest-mocks": "1.4.0",
+    "react-test-renderer": "16.4.1"
   },
   "peerDependencies": {
     "react": "*",
