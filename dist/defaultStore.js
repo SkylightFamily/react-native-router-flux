@@ -1,0 +1,1 @@
+Object.defineProperty(exports,"__esModule",{value:true});exports.default=void 0;var _Store=_interopRequireDefault(require("./Store"));function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{default:obj};}var defaultStore=new _Store.default();var _default=defaultStore;exports.default=_default;
